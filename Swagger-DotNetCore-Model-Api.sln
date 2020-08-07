@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swagger-DotNetCore-Model-Api", "Swagger-DotNetCore-Model-Api.csproj", "{201518FD-0932-4A9F-9630-503899F3DC9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{201518FD-0932-4A9F-9630-503899F3DC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201518FD-0932-4A9F-9630-503899F3DC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{201518FD-0932-4A9F-9630-503899F3DC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{201518FD-0932-4A9F-9630-503899F3DC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4841AA9E-2986-4CFD-81D3-14B4AE1088FA}
+	EndGlobalSection
+EndGlobal
